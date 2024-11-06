@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @govindarajulu Ex Data Analyst at ReferenceGlobe Hyderabad, India
 - 👀 I’m interested in learning and implementing new things
-- 🌱 I’m currently Pursing my Master's in Data Science at Pace University New York
+- 🌱 Master's in Data Science at Pace University New York
 - 💞️ I’m looking to collaborate on company which provides me the oportunity to improve my skills and fro the growth of the organization
 - 📫 How to reach me ... edetigovindraj@gmail.com
 
